@@ -1,6 +1,5 @@
 # AutomateMorningText
 
-# SMS Scheduler
 Bu Python betiği, TextBelt API'si kullanarak belirli bir zamanda bir SMS mesajı gönderir. Kod, schedule ve requests modüllerini kullanır.
 
 #Kurulum
